@@ -1,4 +1,4 @@
-﻿namespace Sitecore.XA.Foundation.Presentation.Pipelines.GetRenderingCaching.GetSiteLevelCaсhing
+﻿namespace Sitecore.Support.XA.Foundation.Presentation.Pipelines.GetRenderingCaching
 {
   using Sitecore.Data.Items;
   using Sitecore.Layouts;
