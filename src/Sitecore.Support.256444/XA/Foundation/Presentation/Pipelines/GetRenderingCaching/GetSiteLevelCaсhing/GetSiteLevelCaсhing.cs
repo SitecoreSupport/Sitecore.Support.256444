@@ -8,11 +8,11 @@
   using Sitecore.XA.Foundation.Presentation.Pipelines.GetRenderingCaching;
   using Sitecore.XA.Foundation.SitecoreExtensions.Extensions;
 
-  public class GetSiteLevelCaсhing
+  public class GetSiteLevelCaching
   {
     private readonly IPresentationContext _presentationContext;
 
-    public GetSiteLevelCaсhing(IPresentationContext presentationContext)
+    public GetSiteLevelCaching(IPresentationContext presentationContext)
     {
       _presentationContext = presentationContext;
     }
